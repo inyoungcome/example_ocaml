@@ -1,0 +1,4 @@
+* OCaml 关键字
+** as
+as 用于绑定模式中的部分或者全部模式表达式，具体的问题有如下
+https://stackoverflow.com/questions/26769403/as-keyword-in-ocaml
